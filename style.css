@@ -10,3 +10,6 @@ body {
   font-weight: 600;
 }
 
+.badge bg-secondary {
+  background-color: #6A5ACD;
+}
