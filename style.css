@@ -8,3 +8,7 @@ body {
 .lead {
   font-weight: 600;
 }
+
+header img {
+  margin-top: 10px;
+}
