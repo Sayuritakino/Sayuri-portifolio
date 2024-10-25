@@ -10,12 +10,3 @@ body {
   font-weight: 600;
 }
 
-.col-md-4 {
-  display: flex;
-  gap: 20px;
-  background-color: transparent;
-  border: 2px solid #333;
-  border-radius: 5px;
-  padding: 5px;
-}
-
