@@ -10,4 +10,9 @@ body {
   font-weight: 600;
 }
 
+.col-md-4 {
+  background: transparent;
+  border: 2px solid #333;
+  padding: 5px;
+}
 
