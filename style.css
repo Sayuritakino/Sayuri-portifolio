@@ -2,5 +2,8 @@
 
 body {
   background-color: #FFB6C1;
+}
 
+.lead {
+  font-weight: 600;
 }
